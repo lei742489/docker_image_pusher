@@ -1,2 +1,4 @@
 nginx
 whyour/qinglong:latest
+photoprism/photoprism:latest
+mariadb:10.11
